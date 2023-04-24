@@ -2,10 +2,10 @@ body{
 	font-family: sans-serif;
 }
 div::before{
-	content: "Before Element ";
+	content: "Before Element";
 	color: red;
 }
 div::after{
-	content: " After Element";
+	content: "After Element";
 	color: red;
 }

@@ -1,11 +1,11 @@
 body{
 	font-family: sans-serif;
 }
-p::before{
-	content: "Before Element";
+div::before{
+	content: "Before Element ";
 	color: red;
 }
-p::after{
-	content: "After Element";
+div::after{
+	content: " After Element";
 	color: red;
 }
